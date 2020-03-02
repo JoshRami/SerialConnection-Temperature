@@ -1,0 +1,32 @@
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\obj\Debug\DS18B20_TEMP.csproj.GenerateResource.cache
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\obj\Debug\DS18B20_TEMP.csproj.CoreCompileInputs.cache
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Start.resources
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.MainUI.resources
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\bin\Debug\DS18B20_TEMP.exe.config
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\bin\Debug\DS18B20_TEMP.exe
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\bin\Debug\DS18B20_TEMP.pdb
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\obj\Debug\DS18B20_TEMP.Properties.Resources.resources
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\obj\Debug\DS18B20_TEMP.exe
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\obj\Debug\DS18B20_TEMP.pdb
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy\GUI_MODERNISTA\bin\Debug\DS18B20_TEMP.exe.config
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy\GUI_MODERNISTA\bin\Debug\DS18B20_TEMP.exe
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy\GUI_MODERNISTA\bin\Debug\DS18B20_TEMP.pdb
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy\GUI_MODERNISTA\obj\Debug\DS18B20_TEMP.csprojAssemblyReference.cache
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.MainUI.resources
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Start.resources
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy\GUI_MODERNISTA\obj\Debug\DS18B20_TEMP.Properties.Resources.resources
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy\GUI_MODERNISTA\obj\Debug\DS18B20_TEMP.csproj.GenerateResource.cache
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy\GUI_MODERNISTA\obj\Debug\DS18B20_TEMP.csproj.CoreCompileInputs.cache
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy\GUI_MODERNISTA\obj\Debug\DS18B20_TEMP.exe
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy\GUI_MODERNISTA\obj\Debug\DS18B20_TEMP.pdb
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy - Copy - Copy - Copy\GUI_MODERNISTA\bin\Debug\DS18B20_TEMP.exe.config
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy - Copy - Copy - Copy\GUI_MODERNISTA\bin\Debug\DS18B20_TEMP.exe
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy - Copy - Copy - Copy\GUI_MODERNISTA\bin\Debug\DS18B20_TEMP.pdb
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy - Copy - Copy - Copy\GUI_MODERNISTA\obj\Debug\DS18B20_TEMP.csprojAssemblyReference.cache
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy - Copy - Copy - Copy\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.MainUI.resources
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy - Copy - Copy - Copy\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Start.resources
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy - Copy - Copy - Copy\GUI_MODERNISTA\obj\Debug\DS18B20_TEMP.Properties.Resources.resources
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy - Copy - Copy - Copy\GUI_MODERNISTA\obj\Debug\DS18B20_TEMP.csproj.GenerateResource.cache
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy - Copy - Copy - Copy\GUI_MODERNISTA\obj\Debug\DS18B20_TEMP.csproj.CoreCompileInputs.cache
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy - Copy - Copy - Copy\GUI_MODERNISTA\obj\Debug\DS18B20_TEMP.exe
+C:\Users\Los Quinteros\Desktop\FISICAII - Copy - Copy - Copy - Copy\GUI_MODERNISTA\obj\Debug\DS18B20_TEMP.pdb

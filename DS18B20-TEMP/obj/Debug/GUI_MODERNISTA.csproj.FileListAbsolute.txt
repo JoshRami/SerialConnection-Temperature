@@ -1,0 +1,34 @@
+E:\TUT\PROYECTOS\GUI_MODERNISTA\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+E:\TUT\PROYECTOS\GUI_MODERNISTA\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+E:\TUT\PROYECTOS\GUI_MODERNISTA\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+E:\TUT\PROYECTOS\GUI_MODERNISTA\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form1.resources
+E:\TUT\PROYECTOS\GUI_MODERNISTA\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+E:\TUT\PROYECTOS\GUI_MODERNISTA\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csproj.GenerateResource.Cache
+E:\TUT\PROYECTOS\GUI_MODERNISTA\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+E:\TUT\PROYECTOS\GUI_MODERNISTA\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\RonetJhon\Downloads\GUI_MODERNISTA\GUI_MODERNISTA\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\RonetJhon\Downloads\GUI_MODERNISTA\GUI_MODERNISTA\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\RonetJhon\Downloads\GUI_MODERNISTA\GUI_MODERNISTA\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+D:\RJ Code Advance\Proyectos y DBs 2019\GUI_MODERNISTA VD01_Parte1\GUI_MODERNISTA VD01_Parte1\GUI_MODERNISTA\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+D:\RJ Code Advance\Proyectos y DBs 2019\GUI_MODERNISTA VD01_Parte1\GUI_MODERNISTA VD01_Parte1\GUI_MODERNISTA\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+D:\RJ Code Advance\Proyectos y DBs 2019\GUI_MODERNISTA VD01_Parte1\GUI_MODERNISTA VD01_Parte1\GUI_MODERNISTA\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\Los Quinteros\Downloads\FISICAII\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csprojAssemblyReference.cache
+C:\Users\Los Quinteros\Downloads\FISICAII\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form1.resources
+C:\Users\Los Quinteros\Downloads\FISICAII\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\Los Quinteros\Downloads\FISICAII\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csproj.GenerateResource.cache
+C:\Users\Los Quinteros\Downloads\FISICAII\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csproj.CoreCompileInputs.cache
+C:\Users\Los Quinteros\Downloads\FISICAII\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\Los Quinteros\Downloads\FISICAII\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
+C:\Users\Los Quinteros\Downloads\FISICAII\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\Los Quinteros\Downloads\FISICAII\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\Los Quinteros\Downloads\FISICAII\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe.config
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.exe
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\bin\Debug\GUI_MODERNISTA.pdb
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csprojAssemblyReference.cache
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Form1.resources
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.Properties.Resources.resources
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csproj.GenerateResource.cache
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.csproj.CoreCompileInputs.cache
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.exe
+C:\Users\Los Quinteros\Downloads\Git-it-Win-ia32\FISICAII\GUI_MODERNISTA\obj\Debug\GUI_MODERNISTA.pdb
